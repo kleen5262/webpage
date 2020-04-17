@@ -1,0 +1,17 @@
+body {
+    background-color: #0E1A24;
+}
+
+.center {
+    height: 150px;
+}
+main {
+    margin: 30px;
+    text-align: center;
+}
+p {
+    color: #ffffff;
+}
+textarea {
+    height: 2vh;
+}
